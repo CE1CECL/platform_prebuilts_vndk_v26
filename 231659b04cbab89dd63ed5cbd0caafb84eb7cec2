@@ -34,6 +34,23 @@
       "parentUuid": "7d44b32e_e79fceb0",
       "revId": "231659b04cbab89dd63ed5cbd0caafb84eb7cec2",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "bec044cf_af52590e",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1018026
+      },
+      "writtenOn": "2020-10-28T05:16:05Z",
+      "side": 1,
+      "message": "Breakage not related to my CL/Topic",
+      "revId": "231659b04cbab89dd63ed5cbd0caafb84eb7cec2",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
