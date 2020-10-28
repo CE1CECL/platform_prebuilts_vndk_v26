@@ -16,6 +16,24 @@
       "message": "Justin, do you think we need to update the paths for such an old VNDK snapshot?",
       "revId": "231659b04cbab89dd63ed5cbd0caafb84eb7cec2",
       "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "38a841f0_8ee833be",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1146974
+      },
+      "writtenOn": "2020-10-28T01:30:27Z",
+      "side": 1,
+      "message": "They are required to find the source tree for the GPL-licensed VNDK libs. As {libbacktrace,libunwindstack} are not under the GPL, I don\u0027t think it is critical, here.",
+      "parentUuid": "7d44b32e_e79fceb0",
+      "revId": "231659b04cbab89dd63ed5cbd0caafb84eb7cec2",
+      "serverId": "85c56323-6fa9-3386-8a01-6480fb634889"
     }
   ]
 }
