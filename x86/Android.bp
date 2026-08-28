@@ -1146,7 +1146,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libaudioroute.so-notice",
+    licenses: ["vndk-v27-libaudioroute.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libaudioroute.so"],
@@ -1211,7 +1211,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libcap.so-notice",
+    licenses: ["vndk-v27-libcap.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libcap.so"],
@@ -1228,7 +1228,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libcrypto.so-notice",
+    licenses: ["vndk-v27-libcrypto.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libcrypto.so"],
@@ -1261,7 +1261,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libcurl.so-notice",
+    licenses: ["vndk-v27-libcurl.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libcurl.so"],
@@ -1310,7 +1310,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libevent.so-notice",
+    licenses: ["vndk-v27-libevent.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libevent.so"],
@@ -1327,7 +1327,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libexif.so-notice",
+    licenses: ["vndk-v27-libexif.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libexif.so"],
@@ -1344,7 +1344,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libexpat.so-notice",
+    licenses: ["vndk-v27-libexpat.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libexpat.so"],
@@ -1409,7 +1409,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libhardware_legacy.so-notice",
+    licenses: ["vndk-v27-libhardware_legacy.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libhardware_legacy.so"],
@@ -1442,7 +1442,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libkeymaster_messages.so-notice",
+    licenses: ["vndk-v27-libkeymaster_messages.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libkeymaster_messages.so"],
@@ -1459,7 +1459,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libkeymaster_portable.so-notice",
+    licenses: ["vndk-v27-libkeymaster_portable.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libkeymaster_portable.so"],
@@ -1476,7 +1476,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libkeymaster_staging.so-notice",
+    licenses: ["vndk-v27-libkeymaster_staging.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libkeymaster_staging.so"],
@@ -1493,7 +1493,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libldacBT_abr.so-notice",
+    licenses: ["vndk-v27-libldacBT_abr.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libldacBT_abr.so"],
@@ -1510,7 +1510,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libldacBT_enc.so-notice",
+    licenses: ["vndk-v27-libldacBT_enc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libldacBT_enc.so"],
@@ -1527,7 +1527,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-liblz4.so-notice",
+    licenses: ["vndk-v27-liblz4.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/liblz4.so"],
@@ -1544,7 +1544,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libmedia_helper.so-notice",
+    licenses: ["vndk-v27-libmedia_helper.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libmedia_helper.so"],
@@ -1561,7 +1561,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libmedia_omx.so-notice",
+    licenses: ["vndk-v27-libmedia_omx.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libmedia_omx.so"],
@@ -1594,7 +1594,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libnetutils.so-notice",
+    licenses: ["vndk-v27-libnetutils.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libnetutils.so"],
@@ -1611,7 +1611,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libnl.so-notice",
+    licenses: ["vndk-v27-libnl.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libnl.so"],
@@ -1628,7 +1628,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libopus.so-notice",
+    licenses: ["vndk-v27-libopus.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libopus.so"],
@@ -1645,7 +1645,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libpagemap.so-notice",
+    licenses: ["vndk-v27-libpagemap.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libpagemap.so"],
@@ -1662,7 +1662,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libpcre2.so-notice",
+    licenses: ["vndk-v27-libpcre2.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libpcre2.so"],
@@ -1679,7 +1679,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libpiex.so-notice",
+    licenses: ["vndk-v27-libpiex.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libpiex.so"],
@@ -1712,7 +1712,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libpower.so-notice",
+    licenses: ["vndk-v27-libpower.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libpower.so"],
@@ -1745,7 +1745,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libprotobuf-cpp-full.so-notice",
+    licenses: ["vndk-v27-libprotobuf-cpp-full.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libprotobuf-cpp-full.so"],
@@ -1762,7 +1762,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libprotobuf-cpp-lite.so-notice",
+    licenses: ["vndk-v27-libprotobuf-cpp-lite.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libprotobuf-cpp-lite.so"],
@@ -1795,7 +1795,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libsoftkeymasterdevice.so-notice",
+    licenses: ["vndk-v27-libsoftkeymasterdevice.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libsoftkeymasterdevice.so"],
@@ -1812,7 +1812,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libspeexresampler.so-notice",
+    licenses: ["vndk-v27-libspeexresampler.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libspeexresampler.so"],
@@ -1829,7 +1829,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libsqlite.so-notice",
+    licenses: ["vndk-v27-libsqlite.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libsqlite.so"],
@@ -1846,7 +1846,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libssl.so-notice",
+    licenses: ["vndk-v27-libssl.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libssl.so"],
@@ -1863,7 +1863,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_amrnb_common.so-notice",
+    licenses: ["vndk-v27-libstagefright_amrnb_common.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_amrnb_common.so"],
@@ -1880,7 +1880,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_enc_common.so-notice",
+    licenses: ["vndk-v27-libstagefright_enc_common.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_enc_common.so"],
@@ -1897,7 +1897,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_flacdec.so-notice",
+    licenses: ["vndk-v27-libstagefright_flacdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_flacdec.so"],
@@ -1914,7 +1914,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_foundation.so-notice",
+    licenses: ["vndk-v27-libstagefright_foundation.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_foundation.so"],
@@ -1931,7 +1931,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_omx.so-notice",
+    licenses: ["vndk-v27-libstagefright_omx.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_omx.so"],
@@ -1948,7 +1948,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_omx_utils.so-notice",
+    licenses: ["vndk-v27-libstagefright_omx_utils.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_omx_utils.so"],
@@ -1965,7 +1965,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_aacdec.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_aacdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_aacdec.so"],
@@ -1982,7 +1982,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_aacenc.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_aacenc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_aacenc.so"],
@@ -1999,7 +1999,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_amrdec.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_amrdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_amrdec.so"],
@@ -2016,7 +2016,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_amrnbenc.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_amrnbenc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_amrnbenc.so"],
@@ -2033,7 +2033,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_amrwbenc.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_amrwbenc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_amrwbenc.so"],
@@ -2082,7 +2082,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_flacdec.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_flacdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_flacdec.so"],
@@ -2099,7 +2099,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_flacenc.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_flacenc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_flacenc.so"],
@@ -2116,7 +2116,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_g711dec.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_g711dec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_g711dec.so"],
@@ -2133,7 +2133,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_gsmdec.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_gsmdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_gsmdec.so"],
@@ -2166,7 +2166,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_mp3dec.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_mp3dec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_mp3dec.so"],
@@ -2199,7 +2199,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_mpeg4dec.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_mpeg4dec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_mpeg4dec.so"],
@@ -2216,7 +2216,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_mpeg4enc.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_mpeg4enc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_mpeg4enc.so"],
@@ -2249,7 +2249,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_rawdec.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_rawdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_rawdec.so"],
@@ -2266,7 +2266,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_vorbisdec.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_vorbisdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_vorbisdec.so"],
@@ -2283,7 +2283,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_vpxdec.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_vpxdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_vpxdec.so"],
@@ -2300,7 +2300,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libstagefright_soft_vpxenc.so-notice",
+    licenses: ["vndk-v27-libstagefright_soft_vpxenc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libstagefright_soft_vpxenc.so"],
@@ -2365,7 +2365,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libtinyalsa.so-notice",
+    licenses: ["vndk-v27-libtinyalsa.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libtinyalsa.so"],
@@ -2382,7 +2382,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libtinyxml2.so-notice",
+    licenses: ["vndk-v27-libtinyxml2.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libtinyxml2.so"],
@@ -2399,7 +2399,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libui.so-notice",
+    licenses: ["vndk-v27-libui.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libui.so"],
@@ -2464,7 +2464,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libvorbisidec.so-notice",
+    licenses: ["vndk-v27-libvorbisidec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libvorbisidec.so"],
@@ -2497,7 +2497,7 @@ vndk_prebuilt_shared {
     vndk: {
         enabled: true,
     },
-    notice: ":vndk-v27-libxml2.so-notice",
+    licenses: ["vndk-v27-libxml2.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-core/libxml2.so"],
@@ -2784,7 +2784,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v27-libblas.so-notice",
+    licenses: ["vndk-v27-libblas.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-sp/libblas.so"],
@@ -2802,7 +2802,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v27-libc++.so-notice",
+    licenses: ["vndk-v27-libc++.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-sp/libc++.so"],
@@ -2820,7 +2820,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v27-libcompiler_rt.so-notice",
+    licenses: ["vndk-v27-libcompiler_rt.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-sp/libcompiler_rt.so"],
@@ -2838,7 +2838,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v27-libcutils.so-notice",
+    licenses: ["vndk-v27-libcutils.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-sp/libcutils.so"],
@@ -2856,7 +2856,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v27-libhardware.so-notice",
+    licenses: ["vndk-v27-libhardware.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-sp/libhardware.so"],
@@ -2925,7 +2925,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v27-libhwbinder.so-notice",
+    licenses: ["vndk-v27-libhwbinder.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-sp/libhwbinder.so"],
@@ -2977,7 +2977,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v27-libunwind.so-notice",
+    licenses: ["vndk-v27-libunwind.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-sp/libunwind.so"],
@@ -2995,7 +2995,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v27-libutils.so-notice",
+    licenses: ["vndk-v27-libutils.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-sp/libutils.so"],
@@ -3013,7 +3013,7 @@ vndk_prebuilt_shared {
         enabled: true,
         support_system_process: true,
     },
-    notice: ":vndk-v27-libz.so-notice",
+    licenses: ["vndk-v27-libz.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86/shared/vndk-sp/libz.so"],
