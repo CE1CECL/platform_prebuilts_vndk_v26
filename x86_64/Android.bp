@@ -3,7 +3,7 @@
 
 vndk_prebuilt_shared {
     name: "android.frameworks.displayservice@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -21,7 +21,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.frameworks.schedulerservice@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -39,7 +39,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.frameworks.sensorservice@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -57,7 +57,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.frameworks.vr.composer@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -75,7 +75,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.audio.common@2.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -93,7 +93,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.audio.common@2.0-util",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -111,7 +111,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.audio.effect@2.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -129,7 +129,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.audio@2.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -147,7 +147,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.automotive.evs@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -165,7 +165,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.automotive.vehicle@2.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -183,7 +183,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.biometrics.fingerprint@2.1",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -201,7 +201,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.bluetooth@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -219,7 +219,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.boot@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -237,7 +237,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.broadcastradio@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -255,7 +255,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.broadcastradio@1.1",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -273,7 +273,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.camera.common@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -291,7 +291,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.camera.device@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -309,7 +309,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.camera.device@3.2",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -327,7 +327,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.camera.device@3.3",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -345,7 +345,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.camera.metadata@3.2",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -363,7 +363,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.camera.provider@2.4",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -381,7 +381,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.cas.native@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -399,7 +399,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.cas@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -417,7 +417,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.configstore-utils",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -435,7 +435,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.configstore@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -453,7 +453,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.contexthub@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -471,7 +471,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.drm@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -489,7 +489,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.dumpstate@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -507,7 +507,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.gatekeeper@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -525,7 +525,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.gnss@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -543,7 +543,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.graphics.bufferqueue@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -561,7 +561,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.graphics.composer@2.1",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -579,7 +579,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.health@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -597,7 +597,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.ir@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -615,7 +615,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.keymaster@3.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -633,7 +633,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.light@2.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -651,7 +651,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.media.omx@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -669,7 +669,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.media@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -687,7 +687,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.memtrack@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -705,7 +705,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.neuralnetworks@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -723,7 +723,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.nfc@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -741,7 +741,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.oemlock@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -759,7 +759,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.power@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -777,7 +777,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.power@1.1",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -795,7 +795,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.radio.deprecated@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -813,7 +813,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.radio@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -831,7 +831,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.radio@1.1",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -849,7 +849,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.sensors@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -867,7 +867,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.soundtrigger@2.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -885,7 +885,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.tetheroffload.config@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -903,7 +903,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.tetheroffload.control@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -921,7 +921,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.thermal@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -939,7 +939,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.thermal@1.1",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -957,7 +957,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.tv.cec@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -975,7 +975,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.tv.input@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -993,7 +993,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.usb@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1011,7 +1011,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.usb@1.1",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1029,7 +1029,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.vibrator@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1047,7 +1047,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.vibrator@1.1",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1065,7 +1065,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.vr@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1083,7 +1083,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.weaver@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1101,7 +1101,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.wifi.offload@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1119,7 +1119,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.wifi.supplicant@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1137,7 +1137,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.wifi@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1155,7 +1155,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.wifi@1.1",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1173,7 +1173,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hidl.allocator@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1191,7 +1191,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hidl.token@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1209,7 +1209,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hidl.token@1.0-utils",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1227,7 +1227,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.system.net.netd@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1245,7 +1245,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.system.wifi.keystore@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1263,7 +1263,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libadf",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1281,13 +1281,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libaudioroute",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libaudioroute.so-license"],
+    licenses: ["vndk-v26-libaudioroute.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libaudioroute.so"],
@@ -1300,7 +1300,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libaudioutils",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1318,7 +1318,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libbinder",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1336,7 +1336,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libcamera_metadata",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1354,13 +1354,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libcap",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libcap.so-license"],
+    licenses: ["vndk-v26-libcap.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libcap.so"],
@@ -1373,13 +1373,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libcrypto",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libcrypto.so-license"],
+    licenses: ["vndk-v26-libcrypto.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libcrypto.so"],
@@ -1392,7 +1392,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libcrypto_utils",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1410,13 +1410,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libcurl",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libcurl.so-license"],
+    licenses: ["vndk-v26-libcurl.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libcurl.so"],
@@ -1429,7 +1429,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libdiskconfig",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1447,7 +1447,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libdumpstateutil",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1465,13 +1465,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libevent",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libevent.so-license"],
+    licenses: ["vndk-v26-libevent.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libevent.so"],
@@ -1484,13 +1484,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libexif",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libexif.so-license"],
+    licenses: ["vndk-v26-libexif.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libexif.so"],
@@ -1503,13 +1503,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libexpat",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libexpat.so-license"],
+    licenses: ["vndk-v26-libexpat.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libexpat.so"],
@@ -1522,7 +1522,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libfmq",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1540,7 +1540,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libgatekeeper",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1558,7 +1558,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libgui",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1576,13 +1576,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libhardware_legacy",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libhardware_legacy.so-license"],
+    licenses: ["vndk-v26-libhardware_legacy.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libhardware_legacy.so"],
@@ -1595,7 +1595,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libjpeg",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1613,13 +1613,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libkeymaster_messages",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libkeymaster_messages.so-license"],
+    licenses: ["vndk-v26-libkeymaster_messages.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libkeymaster_messages.so"],
@@ -1632,13 +1632,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libkeymaster_portable",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libkeymaster_portable.so-license"],
+    licenses: ["vndk-v26-libkeymaster_portable.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libkeymaster_portable.so"],
@@ -1651,13 +1651,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libkeymaster_staging",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libkeymaster_staging.so-license"],
+    licenses: ["vndk-v26-libkeymaster_staging.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libkeymaster_staging.so"],
@@ -1670,13 +1670,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libldacBT_abr",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libldacBT_abr.so-license"],
+    licenses: ["vndk-v26-libldacBT_abr.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libldacBT_abr.so"],
@@ -1689,13 +1689,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libldacBT_enc",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libldacBT_enc.so-license"],
+    licenses: ["vndk-v26-libldacBT_enc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libldacBT_enc.so"],
@@ -1708,13 +1708,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "liblz4",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-liblz4.so-license"],
+    licenses: ["vndk-v26-liblz4.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/liblz4.so"],
@@ -1727,13 +1727,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libmedia_helper",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libmedia_helper.so-license"],
+    licenses: ["vndk-v26-libmedia_helper.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libmedia_helper.so"],
@@ -1746,13 +1746,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libmedia_omx",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libmedia_omx.so-license"],
+    licenses: ["vndk-v26-libmedia_omx.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libmedia_omx.so"],
@@ -1765,7 +1765,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libmemtrack",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1783,13 +1783,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libnetutils",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libnetutils.so-license"],
+    licenses: ["vndk-v26-libnetutils.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libnetutils.so"],
@@ -1802,13 +1802,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libnl",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libnl.so-license"],
+    licenses: ["vndk-v26-libnl.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libnl.so"],
@@ -1821,13 +1821,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libopus",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libopus.so-license"],
+    licenses: ["vndk-v26-libopus.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libopus.so"],
@@ -1840,13 +1840,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libpagemap",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libpagemap.so-license"],
+    licenses: ["vndk-v26-libpagemap.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libpagemap.so"],
@@ -1859,13 +1859,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libpcre2",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libpcre2.so-license"],
+    licenses: ["vndk-v26-libpcre2.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libpcre2.so"],
@@ -1878,13 +1878,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libpiex",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libpiex.so-license"],
+    licenses: ["vndk-v26-libpiex.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libpiex.so"],
@@ -1897,7 +1897,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libpng",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1915,13 +1915,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libpower",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libpower.so-license"],
+    licenses: ["vndk-v26-libpower.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libpower.so"],
@@ -1934,7 +1934,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libprocinfo",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -1952,13 +1952,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libprotobuf-cpp-full",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libprotobuf-cpp-full.so-license"],
+    licenses: ["vndk-v26-libprotobuf-cpp-full.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libprotobuf-cpp-full.so"],
@@ -1971,13 +1971,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libprotobuf-cpp-lite",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libprotobuf-cpp-lite.so-license"],
+    licenses: ["vndk-v26-libprotobuf-cpp-lite.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libprotobuf-cpp-lite.so"],
@@ -1990,7 +1990,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libradio_metadata",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2008,13 +2008,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libsoftkeymasterdevice",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libsoftkeymasterdevice.so-license"],
+    licenses: ["vndk-v26-libsoftkeymasterdevice.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libsoftkeymasterdevice.so"],
@@ -2027,13 +2027,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libspeexresampler",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libspeexresampler.so-license"],
+    licenses: ["vndk-v26-libspeexresampler.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libspeexresampler.so"],
@@ -2046,13 +2046,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libsqlite",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libsqlite.so-license"],
+    licenses: ["vndk-v26-libsqlite.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libsqlite.so"],
@@ -2065,13 +2065,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libssl",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libssl.so-license"],
+    licenses: ["vndk-v26-libssl.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libssl.so"],
@@ -2084,13 +2084,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_amrnb_common",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_amrnb_common.so-license"],
+    licenses: ["vndk-v26-libstagefright_amrnb_common.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_amrnb_common.so"],
@@ -2103,13 +2103,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_enc_common",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_enc_common.so-license"],
+    licenses: ["vndk-v26-libstagefright_enc_common.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_enc_common.so"],
@@ -2122,13 +2122,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_flacdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_flacdec.so-license"],
+    licenses: ["vndk-v26-libstagefright_flacdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_flacdec.so"],
@@ -2141,13 +2141,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_foundation",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_foundation.so-license"],
+    licenses: ["vndk-v26-libstagefright_foundation.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_foundation.so"],
@@ -2160,13 +2160,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_omx",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_omx.so-license"],
+    licenses: ["vndk-v26-libstagefright_omx.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_omx.so"],
@@ -2179,13 +2179,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_omx_utils",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_omx_utils.so-license"],
+    licenses: ["vndk-v26-libstagefright_omx_utils.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_omx_utils.so"],
@@ -2198,13 +2198,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_aacdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_aacdec.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_aacdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_aacdec.so"],
@@ -2214,13 +2214,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_aacenc",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_aacenc.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_aacenc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_aacenc.so"],
@@ -2230,13 +2230,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_amrdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_amrdec.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_amrdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_amrdec.so"],
@@ -2246,13 +2246,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_amrnbenc",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_amrnbenc.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_amrnbenc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_amrnbenc.so"],
@@ -2262,13 +2262,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_amrwbenc",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_amrwbenc.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_amrwbenc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_amrwbenc.so"],
@@ -2278,7 +2278,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_avcdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2293,7 +2293,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_avcenc",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2308,13 +2308,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_flacdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_flacdec.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_flacdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_flacdec.so"],
@@ -2324,13 +2324,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_flacenc",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_flacenc.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_flacenc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_flacenc.so"],
@@ -2340,13 +2340,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_g711dec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_g711dec.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_g711dec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_g711dec.so"],
@@ -2356,13 +2356,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_gsmdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_gsmdec.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_gsmdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_gsmdec.so"],
@@ -2372,7 +2372,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_hevcdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2387,13 +2387,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_mp3dec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_mp3dec.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_mp3dec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_mp3dec.so"],
@@ -2403,7 +2403,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_mpeg2dec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2418,13 +2418,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_mpeg4dec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_mpeg4dec.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_mpeg4dec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_mpeg4dec.so"],
@@ -2434,13 +2434,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_mpeg4enc",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_mpeg4enc.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_mpeg4enc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_mpeg4enc.so"],
@@ -2450,7 +2450,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_opusdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2465,13 +2465,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_rawdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_rawdec.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_rawdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_rawdec.so"],
@@ -2481,13 +2481,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_vorbisdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_vorbisdec.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_vorbisdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_vorbisdec.so"],
@@ -2497,13 +2497,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_vpxdec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_vpxdec.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_vpxdec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_vpxdec.so"],
@@ -2513,13 +2513,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_soft_vpxenc",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libstagefright_soft_vpxenc.so-license"],
+    licenses: ["vndk-v26-libstagefright_soft_vpxenc.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libstagefright_soft_vpxenc.so"],
@@ -2529,7 +2529,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libstagefright_xmlparser",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2547,7 +2547,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libsuspend",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2565,7 +2565,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libsysutils",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2583,13 +2583,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libtinyalsa",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libtinyalsa.so-license"],
+    licenses: ["vndk-v26-libtinyalsa.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libtinyalsa.so"],
@@ -2602,13 +2602,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libtinyxml2",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libtinyxml2.so-license"],
+    licenses: ["vndk-v26-libtinyxml2.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libtinyxml2.so"],
@@ -2621,13 +2621,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libui",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libui.so-license"],
+    licenses: ["vndk-v26-libui.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libui.so"],
@@ -2640,7 +2640,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libusbhost",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2658,7 +2658,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libvixl-arm",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2676,7 +2676,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libvixl-arm64",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2694,13 +2694,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libvorbisidec",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libvorbisidec.so-license"],
+    licenses: ["vndk-v26-libvorbisidec.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libvorbisidec.so"],
@@ -2713,7 +2713,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libwifi-system-iface",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2731,13 +2731,13 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libxml2",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
     },
-    licenses: ["vndk-v27-libxml2.so-license"],
+    licenses: ["vndk-v26-libxml2.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-core/libxml2.so"],
@@ -2750,7 +2750,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libyuv",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2768,7 +2768,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libziparchive",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2786,7 +2786,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libclang_rt.ubsan_standalone-x86_64-android",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2801,7 +2801,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libclang_rt.asan-x86_64-android",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2816,7 +2816,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libclang_rt.ubsan_standalone-i686-android",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2831,7 +2831,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libclang_rt.asan-i686-android",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2846,7 +2846,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.graphics.allocator@2.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2865,7 +2865,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.graphics.common@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2884,7 +2884,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.graphics.mapper@2.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2903,7 +2903,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hardware.renderscript@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2922,7 +2922,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hidl.memory@1.0",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2941,7 +2941,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "android.hidl.memory@1.0-impl",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2962,7 +2962,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libRSCpuRef",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -2981,7 +2981,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libRSDriver",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -3000,7 +3000,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libRS_internal",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -3019,7 +3019,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libbacktrace",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -3038,7 +3038,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libbase",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -3057,7 +3057,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libbcinfo",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -3076,14 +3076,14 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libblas",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
     },
-    licenses: ["vndk-v27-libblas.so-license"],
+    licenses: ["vndk-v26-libblas.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-sp/libblas.so"],
@@ -3096,14 +3096,14 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libc++",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
     },
-    licenses: ["vndk-v27-libc++.so-license"],
+    licenses: ["vndk-v26-libc++.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-sp/libc++.so"],
@@ -3116,14 +3116,14 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libcompiler_rt",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
     },
-    licenses: ["vndk-v27-libcompiler_rt.so-license"],
+    licenses: ["vndk-v26-libcompiler_rt.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-sp/libcompiler_rt.so"],
@@ -3136,14 +3136,14 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libcutils",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
     },
-    licenses: ["vndk-v27-libcutils.so-license"],
+    licenses: ["vndk-v26-libcutils.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-sp/libcutils.so"],
@@ -3156,14 +3156,14 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libhardware",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
     },
-    licenses: ["vndk-v27-libhardware.so-license"],
+    licenses: ["vndk-v26-libhardware.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-sp/libhardware.so"],
@@ -3176,7 +3176,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libhidlbase",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -3195,7 +3195,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libhidlmemory",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -3214,7 +3214,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libhidltransport",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -3233,14 +3233,14 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libhwbinder",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
     },
-    licenses: ["vndk-v27-libhwbinder.so-license"],
+    licenses: ["vndk-v26-libhwbinder.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-sp/libhwbinder.so"],
@@ -3253,7 +3253,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libion",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -3272,7 +3272,7 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "liblzma",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
@@ -3291,14 +3291,14 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libunwind",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
     },
-    licenses: ["vndk-v27-libunwind.so-license"],
+    licenses: ["vndk-v26-libunwind.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-sp/libunwind.so"],
@@ -3311,14 +3311,14 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libutils",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
     },
-    licenses: ["vndk-v27-libutils.so-license"],
+    licenses: ["vndk-v26-libutils.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-sp/libutils.so"],
@@ -3331,14 +3331,14 @@ vndk_prebuilt_shared {
 
 vndk_prebuilt_shared {
     name: "libz",
-    version: "27",
+    version: "26",
     target_arch: "x86_64",
     vendor_available: true,
     vndk: {
         enabled: true,
         support_system_process: true,
     },
-    licenses: ["vndk-v27-libz.so-license"],
+    licenses: ["vndk-v26-libz.so-license"],
     arch: {
         x86: {
             srcs: ["arch-x86-x86_64/shared/vndk-sp/libz.so"],
